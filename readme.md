@@ -11,13 +11,7 @@ Example
 -------
 1 Couple and 1 Friend go on vacation.
 
-
-The couple buys the first meal for for $300.75.
-
-The friend pays for sailing for the group at $200.00.
-
-The couple pays for transportation for 50.28.
-
+The couple buys the first meal for for $300.75, the friend pays for sailing for the group at $200.00 and the couple pays for transportation at $50.28.
 
 If each person is counted as an indvidual but paid as a married couple the program would show
 the friend owes the married couple $116.57.
