@@ -15,3 +15,8 @@ The couple buys the first meal for for $300.75, the friend pays for sailing for 
 
 If each person is counted as an indvidual but paid as a married couple the program would show
 the friend owes the married couple $116.57.
+
+Usage
+-------
+* Setup the arrays in calc.php with who spent what
+* Run the command `$ php calc.php`
