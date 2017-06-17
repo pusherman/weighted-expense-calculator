@@ -1,7 +1,7 @@
 Weighted Group Expense Calculator
 ===========================
 
-Simple command line PHP script to calulate the who owes what in a party with the ability to weight
+Simple command line PHP script to calulate who owes what in a party with the ability to weight
 groups (couples) more heavily than singles.
 
 Useful when traveling with a group of couples and singles and expenses are split between everyone
