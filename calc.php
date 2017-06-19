@@ -50,9 +50,8 @@ foreach($owedTo as $owedToGroup => $owedBy) {
 }
 
 // print the results
-foreach($normalizedOwed as $owedBy => $owedTo) {
-  print "$owedBy owes ";
-  foreach($owedTo as $group => $amount) {
-    print $group . ' $' . $amount . "\n";
+foreach($normalizedOwed as $owedTo => $owedByList) {
+  foreach($owedByList as $owedBy => $amount) {
+      print "$owedBy owes $owedTo \${$amount}\n";
   }
 }
